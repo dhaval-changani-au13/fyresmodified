@@ -1,0 +1,50 @@
+{
+  "_args": [
+    [
+      "fyers-api-v2@1.0.3",
+      "D:\\openstrat-api"
+    ]
+  ],
+  "_from": "fyers-api-v2@1.0.3",
+  "_id": "fyers-api-v2@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-sup8IPRlafVJjSzH0VJ2pY2iQ1ofeapm1JQeEhLkeyIsD4mialipgUr21e7uJVKz+u9UYp8RbhHWvHlx4OR3ZQ==",
+  "_location": "/fyers-api-v2",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "fyers-api-v2@1.0.3",
+    "name": "fyers-api-v2",
+    "escapedName": "fyers-api-v2",
+    "rawSpec": "1.0.3",
+    "saveSpec": null,
+    "fetchSpec": "1.0.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/fyers-api-v2/-/fyers-api-v2-1.0.3.tgz",
+  "_spec": "1.0.3",
+  "_where": "D:\\openstrat-api",
+  "author": {
+    "name": "Fyers-Tech"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ws": "^7.4.4"
+  },
+  "description": "Fyers data.",
+  "keywords": [
+    "fyres",
+    "nodejs",
+    "apis"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "fyers-api-v2",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
